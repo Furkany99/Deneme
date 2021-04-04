@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 998c31b7966d63b4ea41404777e13a56
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hepta Slab
+  fontNames:
+  - Hepta Slab
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 55295151da00deb44a8f1ce60dd7411f, type: 3}
+  - {fileID: 12800000, guid: c7703b71e2894634b917664827dad8bb, type: 3}
+  - {fileID: 12800000, guid: e3d13be3b32fdca44ab71b8be180554b, type: 3}
+  - {fileID: 12800000, guid: 43108e1c3ff4ffa43aa0300974cbecdf, type: 3}
+  - {fileID: 12800000, guid: f225d46c45c875c47bb521abe49f3a57, type: 3}
+  - {fileID: 12800000, guid: 4189a3ce5a47a0449a0c87d8d47b0f8b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
